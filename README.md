@@ -14,3 +14,6 @@
     - Maximilian [Project Leader]
   - Our Inofficial Team:
     - Lennart
+
+- Does DCOND have its own website?
+  - We work on it!
