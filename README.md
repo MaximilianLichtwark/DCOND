@@ -11,6 +11,6 @@
   - Yes! If smaller parts of your DCOND development are overly stunning, we may offer you a job on the DCOND team and you can contribute to the project!
 - Who are the official developers of DCOND?
   - Our Official Team:
-    - Maximilian
+    - Maximilian [Project Leader]
   - Our Inofficial Team:
     - Lennart
