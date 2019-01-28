@@ -1,0 +1,135 @@
+/*Text-Colors*/
+.tc-black{
+  color: black;
+}
+.tc-white{
+  color: white;
+}
+.tc-red{
+  color: red;
+}
+.tc-blue{
+  color: blue;
+}
+.tc-green{
+  color: green;
+}
+.tc-yellow{
+  color: yellow;
+}
+
+/*Background-Colors*/
+.bc-black{
+  background-color: black;
+}
+.bc-white{
+  background-color: white;
+}
+.bc-red{
+  background-color: red;
+}
+.bc-blue{
+  background-color: blue;
+}
+.bc-green{
+  background-color: green;
+}
+.bc-yellow{
+  background-color: yellow;
+}
+
+/*Text-Shadows*/
+.ts-1px{
+  text-shadow: 1px 1px 0 #000;
+}
+.ts-2px{
+  text-shadow: 2px 2px 0 #000;
+}
+.ts-5px{
+  text-shadow: 5px 5px 0 #000;
+}
+.ts-10px{
+  text-shadow: 10px 10px 0 #000;
+}
+.ts-25px{
+  text-shadow: 25px 25px 0 #000;
+}
+
+/*Text-Fonts*/
+.tf-mono{
+  font-family: 'Roboto Mono', monospace;
+}
+.tf-luckiestguy{
+  font-family: 'Luckiest Guy', cursive;
+}
+
+/*Text-Sizes*/
+.tsz-10px{
+  font-size: 10px;
+}
+.tsz-25px{
+  font-size: 25px;
+}
+.tsz-50px{
+  font-size: 50px;
+}
+.tsz-100px{
+  font-size: 100px;
+}
+.tsz-250px{
+  font-size: 250px;
+}
+
+/*Buttons*/
+.b-red-01{
+  -moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background-color:#fe1a00;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.b-red-01:hover{
+  background-color:#ce0100;
+}
+.b-red-01:active{
+  position:relative;
+	top:1px;
+}
+.b-blue-01{
+  -moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.b-blue-01:hover{
+  background-color:#378de5;
+}
+.b-blue-01:active{
+  position:relative;
+	top:1px;
+}
