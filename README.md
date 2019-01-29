@@ -28,4 +28,4 @@
 # OFFICIAL DISCORD-SERVER:
 https://discord.gg/q7gMas3
 
-![title](https://github.com/username/reponame/blob/master/subfolders.../filename.jpg)
+![DCOND_logo](https://cdn.discordapp.com/attachments/444931747604332567/539718179677667358/Logopit_1548749217766.png)
