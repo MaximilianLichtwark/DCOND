@@ -21,3 +21,8 @@
 
 - Does DCOND have its own website?
   - We work on it!
+
+
+
+# OFFICIAL DISCORD-SERVER:
+https://discord.gg/q7gMas3
