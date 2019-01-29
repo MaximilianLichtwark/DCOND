@@ -15,5 +15,8 @@
   - Our Inofficial Team:
     - Lennart
 
+- When will a new update for DCOND come?
+  - Of course we work incessantly on DCOND, but it is not possible to predict when a new update will come.
+
 - Does DCOND have its own website?
   - We work on it!
