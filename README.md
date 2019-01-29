@@ -2,6 +2,7 @@
 
 - What is DCOND?
   - DCOND is a HTML- respectively CSS- Wrapper, which should simplify the creation of web pages.
+  - In other words, DCOND is an HTML5 / CSS3 support software.
 
 - Which is the current version of DCOND?
   - DCOND's current full-released Version is: 00.000.01
