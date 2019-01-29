@@ -13,8 +13,9 @@
 - Who are the official developers of DCOND?
   - Our Official Team:
     - Maximilian [Project Leader]
+    - Lennart    [Co-Project Leader]
   - Our Inofficial Team:
-    - Lennart
+    - /
 
 - When will a new update for DCOND come?
   - Of course we work incessantly on DCOND, but it is not possible to predict when a new update will come.
