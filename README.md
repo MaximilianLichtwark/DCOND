@@ -8,7 +8,7 @@
   - In other words, DCOND is an HTML5 / CSS3 support software.
 
 - Which is the current version of DCOND?
-  - DCOND's current full-released Version is: 00.000.01
+  - DCOND's current full-released Version is: 00.000.03
 
 - Can I contribute to the development of the pull requests?
   - No! DCOND is a Project, which should only be programmed by our official developers!
