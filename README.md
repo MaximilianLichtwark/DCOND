@@ -29,6 +29,9 @@ You can also find all the commands (classes) with a more detailed description in
 
 | Command | Description |
 | --- | --- |
+|  |  |
+|  |  |
+|  |  |
 | Text-Colors (`tc`) | Change the text color in ... . |
 | `tc-black` | Change the text color in black. |
 | `tc-white` | Change the text color in white. |
@@ -37,5 +40,7 @@ You can also find all the commands (classes) with a more detailed description in
 | `tc-yellow` | Change the text color in yellow. |
 | `tc-green` | Change the text color in green. |
 | `tc-purple` | Change the text color in purple. |
+|  |  |
+|  |  |
 |  |  |
 | Background-Colors (`bc`) | Change the background color in ... . |
