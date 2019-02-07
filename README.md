@@ -95,3 +95,5 @@ Currently you can expect at least a monthly update.
 - Last Update: https://github.com/MaximilianLichtwark/DCOND/releases
 
 - Planned updates / devlog: https://github.com/MaximilianLichtwark/DCOND/projects/1
+
+![DCOND_logo](https://cdn.discordapp.com/attachments/444931747604332567/539718179677667358/Logopit_1548749217766.png)
