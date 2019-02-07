@@ -20,11 +20,6 @@ For official support please contact http://www.astrallabstudios.com/pixlsites/DC
 
 ## Requirements
 | Resource | DCOND (.zip) | DCOND (folder) |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+|     :---:      |     :---:      |     :---:      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
