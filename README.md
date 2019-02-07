@@ -81,3 +81,8 @@ You can also find all the commands (classes) with a more detailed description in
 | **Buttons (`b`)** | **Adds a ... colored button.** |
 | `b-red-01` | Adds a red- colored button. (Type 01) |
 | `b-blue-01` | Adds a blue- colored button. (Type 01) |
+
+
+## Modding
+- Currently it is not allowed to modify DCOND.
+Persons who oppose this rule commit license-infringement.
