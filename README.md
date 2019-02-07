@@ -16,3 +16,10 @@ For official support please contact http://www.astrallabstudios.com/pixlsites/DC
 ### Support by Community
 - Development-discord server: https://discord.gg/q7gMas3
 - Issues : https://github.com/MaximilianLichtwark/DCOND/issues
+
+
+## Requirements
+| Resource | DCOND (.zip) | DCOND (folder)
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
