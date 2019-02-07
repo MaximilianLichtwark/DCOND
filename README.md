@@ -29,13 +29,13 @@ You can also find all the commands (classes) with a more detailed description in
 
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
+| `tc-black` | Change the text color in black |
+| `tc-white` | Change the text color in white |
+| `tc-red` | Change the text color in red |
+| `tc-blue` | Change the text color in blue |
+| `tc-yellow` | Change the text color in yellow |
+| `tc-green` | Change the text color in green |
+| `tc-purple` | Change the text color in purple |
 | `git diff` | Show file differences that **haven't been** staged |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
