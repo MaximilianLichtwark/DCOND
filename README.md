@@ -44,3 +44,19 @@ You can also find all the commands (classes) with a more detailed description in
 |  |  |
 |  |  |
 | **Background-Colors (`bc`)** | **Change the background color in ... .** |
+| `bc-black` | Change the background color in black. |
+| `bc-white` | Change the background color in white. |
+| `bc-red` | Change the background color in red. |
+| `bc-blue` | Change the background color in blue. |
+| `bc-yellow` | Change the background color in yellow. |
+| `bc-green` | Change the background color in green. |
+| `bc-purple` | Change the background color in purple. |
+|  |  |
+|  |  |
+|  |  |
+| **Text-Shadows (`ts`)** | **Add a shadow of size ... to the text.** |
+| `ts-1px` | Add a shadow of size 01 px to the text. |
+| `ts-2px` | Add a shadow of size 02 px to the text. |
+| `ts-5px` | Add a shadow of size 05 px to the text. |
+| `ts-10px` | Add a shadow of size 10 px to the text. |
+| `ts-25px` | Add a shadow of size 25 px to the text. |
