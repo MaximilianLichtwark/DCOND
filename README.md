@@ -32,7 +32,7 @@ You can also find all the commands (classes) with a more detailed description in
 |  |  |
 |  |  |
 |  |  |
-| Text-Colors (`tc`) | Change the text color in ... . |
+| **Text-Colors (`tc`)** | **Change the text color in ... .** |
 | `tc-black` | Change the text color in black. |
 | `tc-white` | Change the text color in white. |
 | `tc-red` | Change the text color in red. |
@@ -43,4 +43,4 @@ You can also find all the commands (classes) with a more detailed description in
 |  |  |
 |  |  |
 |  |  |
-| Background-Colors (`bc`) | Change the background color in ... . |
+| **Background-Colors (`bc`)** | **Change the background color in ... .** |
