@@ -1,10 +1,9 @@
 ![DCOND_banner](https://cdn.discordapp.com/attachments/444931747604332567/539821265695932426/DCOND-gfx02.png)
 
-# Navigation
+# NAVIGATION
+- [NAVIGATION](https://github.com/MaximilianLichtwark/DCOND#navigation)
 - [DCOND](https://github.com/MaximilianLichtwark/DCOND#dcond)
 - [Get support](https://github.com/MaximilianLichtwark/DCOND#get-support)
-  - [Support by PixlSites](https://github.com/MaximilianLichtwark/DCOND#support-by-pixlsites)
-  - [Support by Community](https://github.com/MaximilianLichtwark/DCOND#support-by-community)
 - [Requirements](https://github.com/MaximilianLichtwark/DCOND#requirements)
 - [Commands (Classes)](https://github.com/MaximilianLichtwark/DCOND#commands-classes)
 - [Modding](https://github.com/MaximilianLichtwark/DCOND#modding)
@@ -100,7 +99,7 @@ You can also find all the commands (classes) with a more detailed description in
 **Persons who oppose this rule commit license-infringement.**
 
 
-## Updates
+# UPDATES
 Currently you can expect at least a monthly update.
 
 - Last Update: https://github.com/MaximilianLichtwark/DCOND/releases
