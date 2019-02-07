@@ -19,7 +19,7 @@ For official support please contact http://www.astrallabstudios.com/pixlsites/DC
 
 
 ## Requirements
-| Resource | DCOND (.zip) | DCOND (folder)
+| Resource | DCOND (.zip) | DCOND (folder) |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
