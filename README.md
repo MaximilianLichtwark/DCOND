@@ -4,6 +4,6 @@
 
 **Official website:** http://www.astrallabstudios.com/pixlsites/DCOND/
 
-DCOND is an HTML & CSS support software that uses the class system of HTML & CSS.
 
+DCOND is an HTML & CSS support software that uses the class system of HTML & CSS.
 DCOND supports **HTML5**&**CSS3**
