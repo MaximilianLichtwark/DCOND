@@ -93,3 +93,5 @@ You can also find all the commands (classes) with a more detailed description in
 Currently you can expect at least a monthly update.
 
 - Last Update: https://github.com/MaximilianLichtwark/DCOND/releases
+
+- Planned updates / devlog: https://github.com/MaximilianLichtwark/DCOND/projects/1
