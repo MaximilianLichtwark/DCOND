@@ -21,5 +21,5 @@ For official support please contact http://www.astrallabstudios.com/pixlsites/DC
 ## Requirements
 | Resource | DCOND (.zip) | DCOND (folder) |
 |     :---:      |     :---:      |     :---:      |
-| git status   | git status     | git status    |
+| Free space   | 777 KB     | 1.30 MB    |
 | git diff     | git diff       | git diff      |
