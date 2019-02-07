@@ -22,3 +22,22 @@ For official support please contact http://www.astrallabstudios.com/pixlsites/DC
 | Resource | DCOND (.zip) | DCOND (folder) |
 |     :---:      |     :---:      |     :---:      |
 | Free space   | 777 KB     | 1.30 MB    |
+
+
+## Commands (Classes)
+You can also find all the commands (classes) with a more detailed description in the [DCOND-Wiki](https://github.com/MaximilianLichtwark/DCOND/wiki)!
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
