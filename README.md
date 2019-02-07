@@ -86,4 +86,10 @@ You can also find all the commands (classes) with a more detailed description in
 ## Modding
 - Currently it is not allowed to modify DCOND.
 
-Persons who oppose this rule commit license-infringement.
+**Persons who oppose this rule commit license-infringement.**
+
+
+## Updates
+Currently you can expect at least a monthly update.
+
+- Last Update: https://github.com/MaximilianLichtwark/DCOND/releases
