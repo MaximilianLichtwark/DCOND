@@ -14,9 +14,9 @@ DCOND supports **HTML5**&**CSS3**
 ### Support by PixlSites
 For official support please contact http://www.astrallabstudios.com/pixlsites/DCOND/contact.html.
 ### Support by Community
-1item
-1item
-1item
-  1item
-  1item
-  1item
+1 item
+1 item
+1 item
+  1 item
+  1 item
+  1 item
