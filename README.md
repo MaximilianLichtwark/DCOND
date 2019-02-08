@@ -31,7 +31,7 @@ For official support please contact http://www.astrallabstudios.com/pixlsites/DC
 ## Requirements
 | Resource | DCOND (.zip) | DCOND (folder) |
 |     :---:      |     :---:      |     :---:      |
-| Free space   | 777 KB     | 1.30 MB    |
+| Free space   | 780 KB     | 1.30 MB    |
 
 
 ## Commands (Classes)
