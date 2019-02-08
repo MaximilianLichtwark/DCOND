@@ -1,4 +1,4 @@
-![DCOND_banner](https://cdn.discordapp.com/attachments/444931747604332567/539821265695932426/DCOND-gfx02.png)
+![DCOND_banner](https://cdn.discordapp.com/attachments/471014718715199489/543369485520732184/DCOND_banner.png)
 
 # NAVIGATION
 - [NAVIGATION](https://github.com/MaximilianLichtwark/DCOND#navigation)
