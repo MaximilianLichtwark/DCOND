@@ -2,7 +2,7 @@
 .tc-black{color: black;}
 .tc-white{color: white;}
 .tc-red{color: red;}
-.tc-blue{color: blue;} 
+.tc-blue{color: blue;}
 .tc-green{color: green;}
 .tc-yellow{color: yellow;}
 .tc-purple{color: purple;}
@@ -26,13 +26,140 @@
 /*Text-Fonts*/
 .tf-mono{font-family: 'Roboto Mono', monospace;}
 .tf-luckiestguy{font-family: 'Luckiest Guy', cursive;}
+.tf-serif { font-family: "Times New Roman",Times, serif; }
+.tf-arial { font-family: Helvetica, Arial,sans-serif; }
+.tf-monospace { font-family: "Courier New",Courier,monospace ; }
+.tf-cursive { font-family: Florence,cursive;}
+.tf-fantasy { font-family: Blippo,fantasy;}
+
+/*Font-Style*/
+.fs-normal {font-style: nomal; }
+.fs-italic {font-style: italic;}
+.fs-oblique {font-style: oblique;}
+.fs-none { font.variant: normal;}
+.fs-small { font.variant: small-caps;}
+.fs-none {text-decoration: none; }
+.fs-inherit {text-decoration: inherit; }
+.fs-overline {text-decoration: overline; }
+.fs-underline {text-decoration: underline; }
+.fs-line-through {text-decoration: line-through; }
+.fs-light { font-weight: lighter; }
+.fs-bold{font-weight: bold; }
+.fs-bolder{font-weight: bolder;}
 
 /*Text-Sizes*/
+.tsz-1px{font-size: 1px;}
+.tsz-2px{font-size: 2px;}
+.tsz-3px{font-size: 3px;}
+.tsz-4px{font-size: 4px;}
+.tsz-5px{font-size: 5px;}
+.tsz-6px{font-size: 6px;}
+.tsz-7px{font-size: 7px;}
+.tsz-8px{font-size: 8px;}
+.tsz-9px{font-size: 9px;}
 .tsz-10px{font-size: 10px;}
+.tsz-11px{font-size: 11px;}
+.tsz-12px{font-size: 12px;}
+.tsz-13px{font-size: 13px;}
+.tsz-14px{font-size: 14px;}
+.tsz-15px{font-size: 15px;}
+.tsz-16px{font-size: 16px;}
+.tsz-17px{font-size: 17px;}
+.tsz-18px{font-size: 18px;}
+.tsz-19px{font-size: 19px;}
+.tsz-20px{font-size: 20px;}
+.tsz-21px{font-size: 21px;}
+.tsz-22px{font-size: 22px;}
+.tsz-23px{font-size: 23px;}
+.tsz-24px{font-size: 24px;}
 .tsz-25px{font-size: 25px;}
+.tsz-26px{font-size: 26px;}
+.tsz-27px{font-size: 27px;}
+.tsz-28px{font-size: 28px;}
+.tsz-29px{font-size: 29px;}
+.tsz-30px{font-size: 30px;}
+.tsz-31px{font-size: 31px;}
+.tsz-32px{font-size: 32px;}
+.tsz-33px{font-size: 33px;}
+.tsz-34px{font-size: 34px;}
+.tsz-35px{font-size: 35px;}
+.tsz-36px{font-size: 36px;}
+.tsz-37px{font-size: 37px;}
+.tsz-38px{font-size: 38px;}
+.tsz-39px{font-size: 39px;}
+.tsz-40px{font-size: 40px;}
+.tsz-41px{font-size: 41px;}
+.tsz-42px{font-size: 42px;}
+.tsz-43px{font-size: 43px;}
+.tsz-44px{font-size: 44px;}
+.tsz-45px{font-size: 45px;}
+.tsz-46px{font-size: 46px;}
+.tsz-47px{font-size: 47px;}
+.tsz-48px{font-size: 48px;}
+.tsz-49px{font-size: 49px;}
 .tsz-50px{font-size: 50px;}
+.tsz-51px{font-size: 51px;}
+.tsz-52px{font-size: 52px;}
+.tsz-53px{font-size: 53px;}
+.tsz-54px{font-size: 54px;}
+.tsz-55px{font-size: 55px;}
+.tsz-56px{font-size: 56px;}
+.tsz-57px{font-size: 57px;}
+.tsz-58px{font-size: 58px;}
+.tsz-59px{font-size: 59px;}
+.tsz-60px{font-size: 60px;}
+.tsz-61px{font-size: 61px;}
+.tsz-62px{font-size: 62px;}
+.tsz-63px{font-size: 63px;}
+.tsz-64px{font-size: 64px;}
+.tsz-65px{font-size: 65px;}
+.tsz-66px{font-size: 66px;}
+.tsz-67px{font-size: 67px;}
+.tsz-68px{font-size: 68px;}
+.tsz-69px{font-size: 69px;}
+.tsz-70px{font-size: 70px;}
+.tsz-71px{font-size: 71px;}
+.tsz-72px{font-size: 72px;}
+.tsz-73px{font-size: 73px;}
+.tsz-74px{font-size: 74px;}
+.tsz-75px{font-size: 75px;}
+.tsz-76px{font-size: 76px;}
+.tsz-77px{font-size: 77px;}
+.tsz-78px{font-size: 78px;}
+.tsz-79px{font-size: 79px;}
+.tsz-80px{font-size: 80px;}
+.tsz-81px{font-size: 81px;}
+.tsz-82px{font-size: 82px;}
+.tsz-83px{font-size: 83px;}
+.tsz-84px{font-size: 84px;}
+.tsz-85px{font-size: 85px;}
+.tsz-86px{font-size: 86px;}
+.tsz-87px{font-size: 87px;}
+.tsz-88px{font-size: 88px;}
+.tsz-89px{font-size: 89px;}
+.tsz-90px{font-size: 90px;}
+.tsz-91px{font-size: 91px;}
+.tsz-92px{font-size: 92px;}
+.tsz-93px{font-size: 93px;}
+.tsz-94px{font-size: 94px;}
+.tsz-95px{font-size: 95px;}
+.tsz-96px{font-size: 96px;}
+.tsz-97px{font-size: 97px;}
+.tsz-98px{font-size: 98px;}
+.tsz-99px{font-size: 99px;}
 .tsz-100px{font-size: 100px;}
+.tsz-200px{font-size: 200px;}
 .tsz-250px{font-size: 250px;}
+.tsz-300px{font-size: 300px;}
+.tsz-350px{font-size: 350px;}
+
+/*Text-Position*/
+.tp-left{text.align: left;}
+.tp-center{text.align: center;}
+.tp-right{text.align: right;}
+.tp-top{vertical-align: top;}
+.tp-middle{vertical-align: middle;}
+.tp-bottom{vertical-align: bottom;}
 
 /*Buttons*/
 .b-red-01{
