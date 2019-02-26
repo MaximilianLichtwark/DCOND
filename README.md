@@ -12,8 +12,9 @@
 
 # DCOND
 
-**Official website:** http://www.astrallabstudios.com/pixlsites/DCOND/
+**Official website:** http://pixlsystems.astrallabstudios.com/pixlsites/DCOND/
 
+**Store - Page:** http://pixlsystems.astrallabstudios.com/arox-store/products/DCOND/
 
 DCOND is an HTML & CSS support software that uses the class system of HTML & CSS.
 
